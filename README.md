@@ -11,7 +11,7 @@ The main things we consider are:
  - Earth blocking the sun
  - Ground link back to Glasgow
  - Impulse transfers from LEO to all the orbits
- - The $\Delta$ V required for this
+ - The DeltaV required for this
  
 ## Credts
 This code was developed by @eldonkerino, @Ahrenman1, and Myself. This fork is just to provide a obvious record on my own page, for anyone that is interested. 
